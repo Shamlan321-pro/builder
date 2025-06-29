@@ -33,7 +33,7 @@
 						label: 'Help',
 						onClick: () => {
 							// @ts-ignore
-							window.open('https://t.me/frappebuilder');
+							window.open('https://support.taskforgehq.com');
 						},
 						icon: 'info',
 					},

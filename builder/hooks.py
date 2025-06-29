@@ -3,10 +3,10 @@ import frappe
 from . import __version__ as app_version
 
 app_name = "builder"
-app_title = "Frappe Builder"
-app_publisher = "Frappe Technologies Pvt Ltd"
+app_title = "TaskforgeHQ Builder"
+app_publisher = "TaskforgeHQ Technologies Pvt Ltd"
 app_description = "An easier way to build web pages for your needs!"
-app_email = "suraj@frappe.io"
+app_email = "info@taskforgehq.com"
 app_license = "GNU Affero General Public License v3.0"
 
 # Includes in <head>

@@ -18,14 +18,14 @@
  ],
  "fields": [
   {
-   "description": "Global script that will be loaded with every page built with Frappe Builder",
+   "description": "Global script that will be loaded with every page built with TaskforgeHQ Builder",
    "fieldname": "script",
    "fieldtype": "Code",
    "label": "Script",
    "options": "JS"
   },
   {
-   "description": "Global style that will be loaded with every page built with Frappe Builder",
+   "description": "Global style that will be loaded with every page built with TaskforgeHQ Builder",
    "fieldname": "style",
    "fieldtype": "Code",
    "label": "Style",

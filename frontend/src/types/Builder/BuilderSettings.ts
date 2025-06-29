@@ -14,11 +14,11 @@ export interface BuilderSettings{
 	head_html?: string
 	/**	Body HTML : Code - This will be appended at the end of the &lt;body&gt;	*/
 	body_html?: string
-	/**	Script : Code - Global script that will be loaded with every page built with Frappe Builder	*/
+	/**	Script : Code - Global script that will be loaded with every page built with TaskforgeHQ Builder	*/
 	script?: string
 	/**	Script Public URL : Read Only	*/
 	script_public_url?: string
-	/**	Style : Code - Global style that will be loaded with every page built with Frappe Builder	*/
+	/**	Style : Code - Global style that will be loaded with every page built with TaskforgeHQ Builder	*/
 	style?: string
 	/**	Style Public URL : Read Only	*/
 	style_public_url?: string
